@@ -15,7 +15,6 @@ def score(put_list, player_score=0):
                 x += 1
         if x == 3:
             player_score += 1
-            print("you get point")
     return player_score
 
 
